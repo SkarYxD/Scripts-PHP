@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+         	<title>JK DEV # Free Scripts PHP</title>
 		<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
 	</head>
@@ -12,9 +13,9 @@
 	</nav>
 	<div class="col-md-3"></div>
 	<div class="col-md-6 well">
-		<h3 class="text-primary">PHP - Create Random Characters</h3>
+		<h3 class="text-primary">Create Random Characters</h3>
 		<hr style="border-top:1px dotted #ccc;"/>
-		<div class="col-md-3">
+		<div class="col-md-4">
 			<form method = "POST">
 				<div class="form-group">
 					<label>Enter some length</label>
