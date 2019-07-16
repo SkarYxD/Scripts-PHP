@@ -5,7 +5,7 @@ Free Basic Scripts PHP  :squirrel:
 
 - [x] [Create Random Character](https://github.com/SkarYxD/Scripts-PHP/tree/master/create_random_character/)
 - [x] [Simple Convert Hour to Year](https://github.com/SkarYxD/Scripts-PHP/tree/master/simple_convert_hour_to_year/)
-- [ ] Simple Import Array To MySQLi
+- [x] [QR Code Generator](https://github.com/SkarYxD/Scripts-PHP/tree/master/qr-code-generator/)
 
 
 
