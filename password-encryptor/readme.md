@@ -9,4 +9,4 @@ Free Basic Scripts PHP  :squirrel:
 
 :point_right: Contact ICQ: [@jkdev](https://icq.im/jkdev)  :point_left:
  
- Test Script: [jkdev.ga/qcg/](http://jkdev.ga/pae/)
+ Test Script: [jkdev.ga/pae/](http://jkdev.ga/pae/)
