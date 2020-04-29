@@ -1,9 +1,9 @@
-# Create Random Character
+# Generate Password String
 Free Basic Scripts PHP  :squirrel:
 
 **Script Here**
 
-- [x] Create Random Character
+- [x] Generate Password String
 
 
 
