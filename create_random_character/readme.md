@@ -7,6 +7,5 @@ Free Basic Scripts PHP  :squirrel:
 
 
 
-:point_right: Contact ICQ: [@jkdev](https://icq.im/jkdev)  :point_left:
+:point_right: Contact TELEGRAM: @MrPopos2  :point_left:
  
- Test Script: [jkdev.ga/crc/](http://jkdev.ga/crc/index.php)
